@@ -2,7 +2,7 @@
 
 **Predict how widely an online article will be shared from its content, metadata, and publication features — using a feed-forward neural network on ~39,600 articles.**
 
-![Python](https://img.shields.io/badge/Python-3.12-blue) ![DL](https://img.shields.io/badge/TensorFlow%2FKeras-Neural%20Network-FF6F00?logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12-blue) ![DL](https://img.shields.io/badge/TensorFlow%2FKeras-Neural%20Network-FF6F00?logo=tensorflow&logoColor=white) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
